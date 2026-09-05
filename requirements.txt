@@ -1,0 +1,11 @@
+streamlit
+osmnx
+networkx
+geopandas
+pandas
+folium
+streamlit-folium
+shapely
+requests
+streamlit-js-eval
+line-bot-sdk

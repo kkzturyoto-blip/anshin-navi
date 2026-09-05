@@ -10,3 +10,4 @@ requests
 streamlit-js-eval
 line-bot-sdk
 scikit-learn
+geopy
